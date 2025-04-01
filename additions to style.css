@@ -1,0 +1,107 @@
+@-webkit-keyframes maintrans1 {
+    0%   {background-color: #D8A86C;}
+    100% {background-color: #FB9062;}
+}
+
+@keyframes maintrans1 {
+    0%   {background-color: #D8A86C;}
+    100% {background-color: #FB9062;}
+}
+
+@-webkit-keyframes stattrans1 {
+    0%   {background-color: #EE5D6C;}
+    100% {background-color: #CE4993;}
+}
+
+@keyframes stattrans1 {
+    0%   {background-color: #EE5D6C;}
+    100% {background-color: #CE4993;}
+}
+
+@-webkit-keyframes texttrans {
+    0%   {color: black;}
+    100% {color: white;}
+}
+
+@keyframes texttrans {
+    0%   {color: black;}
+    100% {color: white;}
+}
+
+@-webkit-keyframes maintrans2 {
+    from {
+        background-color: #FB9062;
+        color: #000000;
+    }
+
+    to {
+        background-color: #EE5D6C;
+        color: #FFFFFF;
+    }
+}
+
+@keyframes maintrans2 {
+    from {
+        background-color: #FB9062;
+        color: #000000;
+    }
+
+    to {
+        background-color: #EE5D6C;
+        color: #FFFFFF;
+    }
+}
+
+@-webkit-keyframes stattrans2 {
+    0%   {background-color: #CE4993;}
+    100% {background-color: #6A0D83;}
+}
+
+@keyframes stattrans2 {
+    0%   {background-color: #CE4993;}
+    100% {background-color: #6A0D83;}
+}
+
+@-webkit-keyframes maintrans3 {
+    0%   {background-color: #EE5D6C;}
+    100% {background-color: #000000;}
+}
+
+@keyframes maintrans3 {
+    0%   {background-color: #EE5D6C;}
+    100% {background-color: #000000;}
+}
+
+@-webkit-keyframes stattrans3 {
+    from {
+        background-color: #6A0D83;
+        color: #FFFFFF;
+    }
+
+    to {
+        background-color: #333333;
+        color: #E5E5F7;
+    }
+}
+
+@keyframes stattrans3 {
+    from {
+        background-color: #6A0D83;
+        color: #FFFFFF;
+    }
+
+    to {
+        background-color: #333333;
+        color: #E5E5F7;
+    }
+}
+
+@-webkit-keyframes linktrans {
+    0%   {color: #550A69;}
+    100% {color: #00FA9A;}
+}
+
+@keyframes linktrans {
+    0%   {color: #550A69;}
+    100% {color: #00FA9A;}
+}
