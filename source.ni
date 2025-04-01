@@ -112,7 +112,7 @@ numeral	replacement
 "9"	"IX"]
 	
 Section 3 - Mention things that are running but should not be
-[NOTE: Pulled pretty much verbatim from modern conveniences]
+[NOTE: Pulled pretty much verbatim from Modern Conveniences by Emily Short]
 
 A last description-concealing rule (this is the running things aren't scenery rule): 
 	now every visible open refrigerator is marked for listing;
@@ -638,7 +638,7 @@ To increase the ambient noise of (place - a room): now the ambient noise level o
 To decrease the ambient noise of (place - a room): now the ambient noise level of place is the noisiness before the ambient noise level of place.
 
 Section 7 - Matching
-[NOTE: Pulled from Example 370]
+[NOTE: Pulled from Example 370 in the Inform Recipe Book]
 
 Definition: a direction is matched if it fits the parse list. 
 Definition: a room is matched if it fits the parse list. 
@@ -1792,7 +1792,7 @@ Instead of waving a drain: try swinging the noun.
 
 Section 4 - Drawers
 
-[NOTE: A good amount of the code around disambiguation and automation came from Automated Drawers. I chose not to include the entire extension because it makes some additional assumptions and alterations to the understanding of numbers that would have made things a bit complex for me.]
+[NOTE: A good amount of the code around disambiguation and automation came from Automated Drawers by Emily Short. I chose not to include the entire extension because it makes some additional assumptions and alterations to the understanding of numbers that would have made things a bit complex for me.]
 
 A drawer is a kind of container. A drawer is usually openable and closed. Understand "[something related by reversed incorporation] drawer" as a drawer. Understand "drawer of [something related by reversed incorporation]" as a drawer. Understand "drawers" as the plural of drawer. The bulk-capacity of a drawer is usually 15.
 Understand the open property as describing a drawer. Understand "shut" as closed.
@@ -4440,7 +4440,7 @@ Before an actor obvious behavior (this is the behaving obviously rule):
 	now the actor is being obvious;
 	continue the action.
 	
-[NOTE: the below is adapted from example 408 - 'Timeless.']
+[NOTE: the below is adapted from example 408 - 'Timeless' from the Inform Recipe Book]
 	
 Taking inventory is acting fast. Remembering is acting fast. Ruminating about something is acting fast. Waking up is acting fast. Thinking is acting fast. Crying is acting fast. Dancing is acting fast. Magicking is acting fast. Enchanting something is acting fast. Praying is acting fast. Screaming is acting fast. Singing is acting fast. Winning is acting fast. Losing is acting fast. Shaving is acting fast. Teethbrushing is acting fast.
 
